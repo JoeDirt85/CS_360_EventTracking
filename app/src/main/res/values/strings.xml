@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CS_360_ProjectOne</string>
+
+    <!--strings for login/main.xml -->
+    <string name="appName">EventScout</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create">Sign Up</string>
+
+    <!-- strings for activity_display.xml -->
+    <string name="display_banner">Upcoming Events!</string>
+    <string name="addButton">Add</string>
+
+
+    <!-- strings for event_item.xml, filler for now -->
+    <string name="sampleTitle">Event Title</string>
+    <string name="sampleDate">January 01, 2027</string>
+    <string name="sampleTime">9:00 am</string>
+    <string name="detailButton">Details</string>
+
+    <!-- strings for the activity_event.xml, filler for now -->
+    <string name="eventDetails">Event Details</string>
+    <string name="eventTitleDetail">Enter Event Title</string>
+    <string name="eventDateDetail">Enter Event Date</string>
+    <string name="eventTimeDetail">Enter Event Time</string>
+    <string name="eventDescriptionDetail">Enter Event Description</string>
+    <string name="SMSNotification">Receive SMS Notifications</string>
+    <string name="yesButton">Yes</string>
+    <string name="noButton">No</string>
+    <string name="saveButton">Save</string>
+    <string name="deleteButton">Delete</string>
+    <string name="editButton">Edit</string>
+    <string name="backButton">back button</string>
+    <string name="addPhoneButton">Phone</string>
+    <string name="phoneNumber">Enter Phone Number</string>
+
+</resources>
